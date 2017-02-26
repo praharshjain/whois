@@ -15,6 +15,10 @@ Run -
 ```
 $ ./whois.sh
 ```
+Screenshots
+----------------
+<img src="https://github.com/praharshjain/whois/blob/master/screen1.png">  
+<img src="https://github.com/praharshjain/whois/blob/master/screen2.png">
 License
 ----------------
 MIT
